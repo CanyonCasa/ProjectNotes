@@ -1,3 +1,7 @@
+# DEPRECIATED
+
+Contents erged into OneWire repo. Repo will be deleted soon.
+
 # ProjectNotes
 
 *Keywords:	Raspberry Pi, RPi, Node-red, 1-wire, OneWire.
